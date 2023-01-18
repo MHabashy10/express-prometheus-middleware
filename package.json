@@ -27,8 +27,5 @@
   "peerDependencies": {
     "express": "4.x",
     "prom-client": ">= 13.x"
-  },
-  "optionalDependencies": {
-    "prometheus-gc-stats": "^0.6.4"
   }
 }
