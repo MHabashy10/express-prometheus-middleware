@@ -1,6 +1,6 @@
 {
   "name": "express-prometheus-middleware",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "RED/USE metrics for express applications",
   "keywords": [
     "express",
@@ -14,6 +14,9 @@
   ],
   "repository": "https://github.com/joao-fontenele/express-prometheus-middleware.git",
   "author": "João Paulo Fontenele Brito <jpfb@icomp.ufam.edu.br>",
+  "contributors": [
+    "Mohamed Habashy <mohamed.habshey10@gmail.com>"
+  ],
   "license": "MIT",
   "private": false,
   "scripts": {
